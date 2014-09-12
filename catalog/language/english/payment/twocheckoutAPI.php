@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_title'] = 'Credit Card / Debit Card (2Checkout)';
+$_['text_title'] = '2Checkout';
 $_['text_credit_card']     = 'Credit Card Details';
 $_['text_wait']            = 'Please wait!';
 
